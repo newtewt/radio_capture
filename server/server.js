@@ -3,7 +3,9 @@ var fs = require('fs');
 const app = express()
 const port = 4000
 var os = require('os');
+var cors = require('cors');
 
+app.use(cors())
 async function get_data() {
     const data = await fs.readFileSync('example_capture.txt', { encoding: 'utf8', flag: 'r' });
     data_arr = []

@@ -73,7 +73,274 @@
 {"time" : "2024-02-13 13:56:33", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
 {"time" : "2024-02-13 13:56:34", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 61.000, "mic" : "CHECKSUM"}
 {"time" : "2024-02-13 13:56:34", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 61.000, "mic" : "CHECKSUM"}
-{"time" : "2024-02-13 13:56:34", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 61.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-13 13:56:34", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "t{"time" : "2024-02-26 13:24:39", "model" : "Citroen", "type" : "TPMS", "id" : "cd930a5d", "state" : "d2", "flags" : 0, "repeat" : 3, "pressure_kPa" : 237.336, "temperature_C" : 25.000, "maybe_battery" : 1, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:24:39", "model" : "Jansite", "type" : "TPMS", "id" : "d2cd930", "flags" : 10, "pressure_kPa" : 158.100, "temperature_C" : -47.000, "code" : "d2cd930a5d03ae"}
+{"time" : "2024-02-26 13:24:47", "model" : "Citroen", "type" : "TPMS", "id" : "cd930d4a", "state" : "d2", "flags" : 0, "repeat" : 1, "pressure_kPa" : 238.700, "temperature_C" : 21.000, "maybe_battery" : 6, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:24:47", "model" : "Jansite", "type" : "TPMS", "id" : "d2cd930", "flags" : 13, "pressure_kPa" : 125.800, "temperature_C" : -49.000, "code" : "d2cd930d4a01af"}
+{"time" : "2024-02-26 13:24:47", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:24:47", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:24:47", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:25:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:25:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:25:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:25:48", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:25:48", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:25:48", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:26:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:26:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:26:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:26:49", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:26:49", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:26:49", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:27:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:27:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:27:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:27:50", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:27:50", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:27:50", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:28:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:28:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:28:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:28:51", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:28:51", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:28:51", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:29:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:29:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:29:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:29:52", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:29:52", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:29:52", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:30:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:30:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:30:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:30:53", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:30:53", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:30:53", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:31:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:31:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:31:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:31:54", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:31:54", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:31:54", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:32:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.300, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:32:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.300, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:32:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.300, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:32:55", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:32:55", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:32:55", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:33:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:33:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:33:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:33:56", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:33:56", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:33:56", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:34:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:34:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:34:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:34:57", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.700, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:34:57", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.700, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:34:57", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.700, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:35:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:35:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:35:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:35:58", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.700, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:35:58", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.700, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:35:58", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.700, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:36:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:36:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:36:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:36:59", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.700, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:36:59", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.700, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:36:59", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.700, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:37:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:37:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:37:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:38:00", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:38:00", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:38:00", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:38:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:38:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:38:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:39:01", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:39:01", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:39:01", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:39:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:39:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:39:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:40:02", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:40:02", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:40:02", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:40:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:40:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:40:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:41:03", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:41:03", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:41:03", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:41:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:41:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:41:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:41:39", "model" : "Citroen", "type" : "TPMS", "id" : "87338493", "state" : "df", "flags" : 0, "repeat" : 3, "pressure_kPa" : 114.576, "temperature_C" : 22.000, "maybe_battery" : 12, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:41:39", "model" : "Jansite", "type" : "TPMS", "id" : "df87338", "flags" : 4, "pressure_kPa" : 249.900, "temperature_C" : -47.000, "code" : "df873384930354"}
+{"time" : "2024-02-26 13:41:40", "model" : "Citroen", "type" : "TPMS", "id" : "873cc836", "state" : "df", "flags" : 0, "repeat" : 1, "pressure_kPa" : 118.668, "temperature_C" : 26.000, "maybe_battery" : 13, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:41:40", "model" : "Jansite", "type" : "TPMS", "id" : "df873cc", "flags" : 8, "pressure_kPa" : 91.800, "temperature_C" : -49.000, "code" : "df873cc8360157"}
+{"time" : "2024-02-26 13:42:05", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:42:05", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:42:05", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:42:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:42:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:42:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:43:06", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:43:06", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:43:06", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:43:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:43:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:43:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:44:07", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:44:07", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:44:07", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:44:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:44:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:44:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:45:08", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:45:08", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:45:08", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:45:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:45:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:45:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:46:09", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:46:09", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:46:09", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:46:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:46:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:46:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:47:10", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:47:10", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:47:10", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:47:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:47:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:47:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:48:11", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:48:11", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:48:11", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:48:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:48:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:48:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:49:12", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:49:12", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:49:12", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:49:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:49:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:49:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:50:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:50:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:50:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:50:13", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:50:13", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:50:13", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:51:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:51:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:51:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:51:14", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:51:14", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:51:14", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:52:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:52:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:52:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:52:15", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:52:15", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:52:15", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:53:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:53:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:53:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:53:16", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:53:16", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:53:16", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:54:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:54:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:54:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:54:18", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:54:18", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:54:18", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:55:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:55:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:55:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:55:19", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:55:19", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:55:19", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:56:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:56:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:56:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:56:20", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:56:20", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:56:20", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:56:34", "model" : "Citroen", "type" : "TPMS", "id" : "8703d154", "state" : "dc", "flags" : 8, "repeat" : 1, "pressure_kPa" : 113.212, "temperature_C" : 23.000, "maybe_battery" : 1, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:56:34", "model" : "Jansite", "type" : "TPMS", "id" : "dc8703d", "flags" : 1, "pressure_kPa" : 142.800, "temperature_C" : 79.000, "code" : "dc8703d1548153"}
+{"time" : "2024-02-26 13:56:34", "model" : "Citroen", "type" : "TPMS", "id" : "8703d154", "state" : "dc", "flags" : 8, "repeat" : 2, "pressure_kPa" : 113.212, "temperature_C" : 23.000, "maybe_battery" : 1, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:56:34", "model" : "Jansite", "type" : "TPMS", "id" : "dc8703d", "flags" : 1, "pressure_kPa" : 142.800, "temperature_C" : 80.000, "code" : "dc8703d1548253"}
+{"time" : "2024-02-26 13:56:34", "model" : "Citroen", "type" : "TPMS", "id" : "8703d154", "state" : "dc", "flags" : 8, "repeat" : 3, "pressure_kPa" : 113.212, "temperature_C" : 23.000, "maybe_battery" : 1, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:56:34", "model" : "Jansite", "type" : "TPMS", "id" : "dc8703d", "flags" : 1, "pressure_kPa" : 142.800, "temperature_C" : 81.000, "code" : "dc8703d1548353"}
+{"time" : "2024-02-26 13:57:04", "model" : "Citroen", "type" : "TPMS", "id" : "87419ada", "state" : "dc", "flags" : 8, "repeat" : 1, "pressure_kPa" : 114.576, "temperature_C" : 27.000, "maybe_battery" : 1, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:04", "model" : "Jansite", "type" : "TPMS", "id" : "dc87419", "flags" : 10, "pressure_kPa" : 370.600, "temperature_C" : 79.000, "code" : "dc87419ada8154"}
+{"time" : "2024-02-26 13:57:04", "model" : "Citroen", "type" : "TPMS", "id" : "87419ada", "state" : "dc", "flags" : 8, "repeat" : 2, "pressure_kPa" : 114.576, "temperature_C" : 27.000, "maybe_battery" : 1, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:04", "model" : "Jansite", "type" : "TPMS", "id" : "dc87419", "flags" : 10, "pressure_kPa" : 370.600, "temperature_C" : 80.000, "code" : "dc87419ada8254"}
+{"time" : "2024-02-26 13:57:04", "model" : "Truck", "type" : "TPMS", "id" : "c87419ad", "wheel" : 168, "pressure_kPa" : 1348.000, "temperature_C" : 208.000, "state" : 13, "flags" : 2, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:04", "model" : "Citroen", "type" : "TPMS", "id" : "87419ada", "state" : "dc", "flags" : 8, "repeat" : 3, "pressure_kPa" : 114.576, "temperature_C" : 27.000, "maybe_battery" : 1, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:04", "model" : "Jansite", "type" : "TPMS", "id" : "dc87419", "flags" : 10, "pressure_kPa" : 370.600, "temperature_C" : 81.000, "code" : "dc87419ada8354"}
+{"time" : "2024-02-26 13:57:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:21", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:21", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:21", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:24", "model" : "Citroen", "type" : "TPMS", "id" : "87338493", "state" : "dc", "flags" : 8, "repeat" : 1, "pressure_kPa" : 114.576, "temperature_C" : 28.000, "maybe_battery" : 1, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:24", "model" : "Jansite", "type" : "TPMS", "id" : "dc87338", "flags" : 4, "pressure_kPa" : 249.900, "temperature_C" : 79.000, "code" : "dc873384938154"}
+{"time" : "2024-02-26 13:57:25", "model" : "Citroen", "type" : "TPMS", "id" : "87338493", "state" : "dc", "flags" : 8, "repeat" : 2, "pressure_kPa" : 114.576, "temperature_C" : 28.000, "maybe_battery" : 1, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:25", "model" : "Jansite", "type" : "TPMS", "id" : "dc87338", "flags" : 4, "pressure_kPa" : 249.900, "temperature_C" : 80.000, "code" : "dc873384938254"}
+{"time" : "2024-02-26 13:57:25", "model" : "Citroen", "type" : "TPMS", "id" : "87338493", "state" : "dc", "flags" : 8, "repeat" : 3, "pressure_kPa" : 114.576, "temperature_C" : 28.000, "maybe_battery" : 1, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:25", "model" : "Jansite", "type" : "TPMS", "id" : "dc87338", "flags" : 4, "pressure_kPa" : 249.900, "temperature_C" : 81.000, "code" : "dc873384938354"}
+{"time" : "2024-02-26 13:58:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:58:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:58:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:58:22", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:58:22", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:58:22", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:59:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:59:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:59:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:59:23", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:59:23", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:59:23", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:00:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:00:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:00:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:00:24", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:00:24", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:00:24", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:01:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:01:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:01:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:01:25", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:01:25", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:01:25", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:02:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:02:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:02:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:02:26", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:02:26", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:02:26", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:03:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:03:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:03:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:03:27", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:03:27", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:03:27", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:04:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:04:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:04:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:04:28", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:04:28", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:04:28", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+perature_F" : 61.000, "mic" : "CHECKSUM"}
 {"time" : "2024-02-13 13:56:37", "model" : "Thermopro-TP12", "id" : 214, "temperature_1_C" : 20.800, "temperature_2_C" : 23.800, "mic" : "CRC"}
 {"time" : "2024-02-13 13:56:49", "model" : "Thermopro-TP12", "id" : 214, "temperature_1_C" : 26.300, "temperature_2_C" : 23.800, "mic" : "CRC"}
 {"time" : "2024-02-13 13:57:33", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
@@ -88,3 +355,270 @@
 {"time" : "2024-02-13 13:58:36", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 61.000, "mic" : "CHECKSUM"}
 {"time" : "2024-02-13 13:58:36", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 61.000, "mic" : "CHECKSUM"}
 {"time" : "2024-02-13 13:58:36", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 61.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:24:39", "model" : "Citroen", "type" : "TPMS", "id" : "cd930a5d", "state" : "d2", "flags" : 0, "repeat" : 3, "pressure_kPa" : 237.336, "temperature_C" : 25.000, "maybe_battery" : 1, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:24:39", "model" : "Jansite", "type" : "TPMS", "id" : "d2cd930", "flags" : 10, "pressure_kPa" : 158.100, "temperature_C" : -47.000, "code" : "d2cd930a5d03ae"}
+{"time" : "2024-02-26 13:24:47", "model" : "Citroen", "type" : "TPMS", "id" : "cd930d4a", "state" : "d2", "flags" : 0, "repeat" : 1, "pressure_kPa" : 238.700, "temperature_C" : 21.000, "maybe_battery" : 6, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:24:47", "model" : "Jansite", "type" : "TPMS", "id" : "d2cd930", "flags" : 13, "pressure_kPa" : 125.800, "temperature_C" : -49.000, "code" : "d2cd930d4a01af"}
+{"time" : "2024-02-26 13:24:47", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:24:47", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:24:47", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:25:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:25:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:25:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:25:48", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:25:48", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:25:48", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:26:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:26:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:26:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:26:49", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:26:49", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:26:49", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:27:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:27:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:27:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:27:50", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:27:50", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:27:50", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:28:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:28:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:28:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:28:51", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:28:51", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:28:51", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:29:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:29:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:29:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:29:52", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:29:52", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:29:52", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:30:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:30:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:30:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:30:53", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:30:53", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:30:53", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:31:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:31:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:31:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:31:54", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:31:54", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:31:54", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:32:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.300, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:32:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.300, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:32:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.300, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:32:55", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:32:55", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:32:55", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:33:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:33:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:33:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:33:56", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:33:56", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:33:56", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:34:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:34:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:34:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:34:57", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.700, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:34:57", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.700, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:34:57", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.700, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:35:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:35:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:35:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:35:58", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.700, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:35:58", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.700, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:35:58", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.700, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:36:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:36:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:36:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:36:59", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.700, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:36:59", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.700, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:36:59", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 72.700, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:37:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:37:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:37:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:38:00", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:38:00", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:38:00", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:38:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:38:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:38:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:39:01", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:39:01", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:39:01", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:39:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:39:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:39:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:40:02", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:40:02", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:40:02", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:40:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:40:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:40:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:41:03", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:41:03", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:41:03", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:41:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:41:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:41:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:41:39", "model" : "Citroen", "type" : "TPMS", "id" : "87338493", "state" : "df", "flags" : 0, "repeat" : 3, "pressure_kPa" : 114.576, "temperature_C" : 22.000, "maybe_battery" : 12, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:41:39", "model" : "Jansite", "type" : "TPMS", "id" : "df87338", "flags" : 4, "pressure_kPa" : 249.900, "temperature_C" : -47.000, "code" : "df873384930354"}
+{"time" : "2024-02-26 13:41:40", "model" : "Citroen", "type" : "TPMS", "id" : "873cc836", "state" : "df", "flags" : 0, "repeat" : 1, "pressure_kPa" : 118.668, "temperature_C" : 26.000, "maybe_battery" : 13, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:41:40", "model" : "Jansite", "type" : "TPMS", "id" : "df873cc", "flags" : 8, "pressure_kPa" : 91.800, "temperature_C" : -49.000, "code" : "df873cc8360157"}
+{"time" : "2024-02-26 13:42:05", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:42:05", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:42:05", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:42:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:42:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:42:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:43:06", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:43:06", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:43:06", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:43:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:43:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:43:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:44:07", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:44:07", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:44:07", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:44:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:44:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:44:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:45:08", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:45:08", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:45:08", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:45:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:45:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:45:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:46:09", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:46:09", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:46:09", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:46:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:46:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:46:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:47:10", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:47:10", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:47:10", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:47:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:47:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:47:12", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:48:11", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:48:11", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:48:11", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:48:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:48:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:48:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:49:12", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:49:12", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:49:12", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 73.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:49:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:49:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:49:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:50:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:50:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:50:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:50:13", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:50:13", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:50:13", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:51:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:51:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:51:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:51:14", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:51:14", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:51:14", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:52:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:52:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:52:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:52:15", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:52:15", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:52:15", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:53:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:53:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:53:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:53:16", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:53:16", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:53:16", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:54:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:54:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:54:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 4.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:54:18", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:54:18", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:54:18", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.200, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:55:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:55:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:55:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.000, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:55:19", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:55:19", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:55:19", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:56:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:56:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:56:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:56:20", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:56:20", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:56:20", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:56:34", "model" : "Citroen", "type" : "TPMS", "id" : "8703d154", "state" : "dc", "flags" : 8, "repeat" : 1, "pressure_kPa" : 113.212, "temperature_C" : 23.000, "maybe_battery" : 1, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:56:34", "model" : "Jansite", "type" : "TPMS", "id" : "dc8703d", "flags" : 1, "pressure_kPa" : 142.800, "temperature_C" : 79.000, "code" : "dc8703d1548153"}
+{"time" : "2024-02-26 13:56:34", "model" : "Citroen", "type" : "TPMS", "id" : "8703d154", "state" : "dc", "flags" : 8, "repeat" : 2, "pressure_kPa" : 113.212, "temperature_C" : 23.000, "maybe_battery" : 1, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:56:34", "model" : "Jansite", "type" : "TPMS", "id" : "dc8703d", "flags" : 1, "pressure_kPa" : 142.800, "temperature_C" : 80.000, "code" : "dc8703d1548253"}
+{"time" : "2024-02-26 13:56:34", "model" : "Citroen", "type" : "TPMS", "id" : "8703d154", "state" : "dc", "flags" : 8, "repeat" : 3, "pressure_kPa" : 113.212, "temperature_C" : 23.000, "maybe_battery" : 1, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:56:34", "model" : "Jansite", "type" : "TPMS", "id" : "dc8703d", "flags" : 1, "pressure_kPa" : 142.800, "temperature_C" : 81.000, "code" : "dc8703d1548353"}
+{"time" : "2024-02-26 13:57:04", "model" : "Citroen", "type" : "TPMS", "id" : "87419ada", "state" : "dc", "flags" : 8, "repeat" : 1, "pressure_kPa" : 114.576, "temperature_C" : 27.000, "maybe_battery" : 1, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:04", "model" : "Jansite", "type" : "TPMS", "id" : "dc87419", "flags" : 10, "pressure_kPa" : 370.600, "temperature_C" : 79.000, "code" : "dc87419ada8154"}
+{"time" : "2024-02-26 13:57:04", "model" : "Citroen", "type" : "TPMS", "id" : "87419ada", "state" : "dc", "flags" : 8, "repeat" : 2, "pressure_kPa" : 114.576, "temperature_C" : 27.000, "maybe_battery" : 1, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:04", "model" : "Jansite", "type" : "TPMS", "id" : "dc87419", "flags" : 10, "pressure_kPa" : 370.600, "temperature_C" : 80.000, "code" : "dc87419ada8254"}
+{"time" : "2024-02-26 13:57:04", "model" : "Truck", "type" : "TPMS", "id" : "c87419ad", "wheel" : 168, "pressure_kPa" : 1348.000, "temperature_C" : 208.000, "state" : 13, "flags" : 2, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:04", "model" : "Citroen", "type" : "TPMS", "id" : "87419ada", "state" : "dc", "flags" : 8, "repeat" : 3, "pressure_kPa" : 114.576, "temperature_C" : 27.000, "maybe_battery" : 1, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:04", "model" : "Jansite", "type" : "TPMS", "id" : "dc87419", "flags" : 10, "pressure_kPa" : 370.600, "temperature_C" : 81.000, "code" : "dc87419ada8354"}
+{"time" : "2024-02-26 13:57:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:21", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:21", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:21", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.400, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:24", "model" : "Citroen", "type" : "TPMS", "id" : "87338493", "state" : "dc", "flags" : 8, "repeat" : 1, "pressure_kPa" : 114.576, "temperature_C" : 28.000, "maybe_battery" : 1, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:24", "model" : "Jansite", "type" : "TPMS", "id" : "dc87338", "flags" : 4, "pressure_kPa" : 249.900, "temperature_C" : 79.000, "code" : "dc873384938154"}
+{"time" : "2024-02-26 13:57:25", "model" : "Citroen", "type" : "TPMS", "id" : "87338493", "state" : "dc", "flags" : 8, "repeat" : 2, "pressure_kPa" : 114.576, "temperature_C" : 28.000, "maybe_battery" : 1, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:25", "model" : "Jansite", "type" : "TPMS", "id" : "dc87338", "flags" : 4, "pressure_kPa" : 249.900, "temperature_C" : 80.000, "code" : "dc873384938254"}
+{"time" : "2024-02-26 13:57:25", "model" : "Citroen", "type" : "TPMS", "id" : "87338493", "state" : "dc", "flags" : 8, "repeat" : 3, "pressure_kPa" : 114.576, "temperature_C" : 28.000, "maybe_battery" : 1, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:57:25", "model" : "Jansite", "type" : "TPMS", "id" : "dc87338", "flags" : 4, "pressure_kPa" : 249.900, "temperature_C" : 81.000, "code" : "dc873384938354"}
+{"time" : "2024-02-26 13:58:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:58:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:58:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:58:22", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:58:22", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:58:22", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:59:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:59:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:59:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:59:23", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:59:23", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 13:59:23", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:00:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:00:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:00:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:00:24", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:00:24", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:00:24", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:01:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:01:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:01:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:01:25", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:01:25", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:01:25", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:02:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:02:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:02:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 6.100, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:02:26", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:02:26", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:02:26", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:03:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:03:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:03:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.800, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:03:27", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:03:27", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:03:27", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:04:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:04:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:04:13", "model" : "Acurite-515", "id" : 216, "channel" : "AF", "battery_ok" : 1, "temperature_F" : 5.500, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:04:28", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:04:28", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}
+{"time" : "2024-02-26 14:04:28", "model" : "Acurite-515", "id" : 86, "channel" : "AR", "battery_ok" : 1, "temperature_F" : 74.600, "mic" : "CHECKSUM"}

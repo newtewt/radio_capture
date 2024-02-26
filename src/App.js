@@ -1,15 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
 import React from 'react';
-import BasicExample from './navBar';
+import NavBar from './navBar';
 import Plot from 'react-plotly.js';
 import Temps from './Temps';
+import Devices from './DeviceDropdown'
 
 function App() {
   return (
     <div bg="dark">
-      <BasicExample></BasicExample>
-      <Temps></Temps>
+      <NavBar></NavBar>
+      <Devices></Devices>
+      {/* <Temps></Temps> */}
     </div>
 
   );

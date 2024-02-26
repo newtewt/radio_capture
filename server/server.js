@@ -27,7 +27,17 @@ app.get('/test_example', async (req, res) => {
 
 app.get('/available_devices', async (req, res) => {
     const data = await get_data()
-    res.send([...new Set(data)]
+    var devices = {};
+
+    var filtered = data.filter(function (entry) {
+        if (devices[entry.id]) {
+            return false;
+        }
+        devices[entry.id] = true;
+        return true;
+    });
+    console.log(filtered)
+    res.send([...new Set(filtered)]
     )
 })
 

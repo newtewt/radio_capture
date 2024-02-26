@@ -26,7 +26,7 @@ function Devices() {
 
 
     if (!isLoading) {
-        const dropdownItems = deviceList.data.map((device) => <Dropdown.Item key={device} href="#/action-1">{device}</Dropdown.Item>)
+        const dropdownItems = deviceList.data.map((device) => <Dropdown.Item key={device.model} href="#/action-1">{device}</Dropdown.Item>)
         return (
             <Dropdown>
                 <Dropdown.Toggle variant="success" id="dropdown-basic">

@@ -27,10 +27,7 @@ app.get('/test_example', async (req, res) => {
 
 app.get('/available_devices', async (req, res) => {
     const data = await get_data()
-    console.log(data)
-    devices = data.map(x => x.model)
-    console.log(devices)
-    res.send([...new Set(devices)]
+    res.send([...new Set(data)]
     )
 })
 

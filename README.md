@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+## Starting the server
+
+`cd server`
+`noder server.js`
+
+
+## Saving output from SDR
+
+Using this for samples
+
+https://github.com/merbanan/rtl_433
+
+
+ `rtl_433 -G 4 -F json > 2_27_24.json`

@@ -40,8 +40,12 @@ app.get('/available_devices', async (req, res) => {
 
 app.get('/device_info', async (req, res) => {
     const data = await get_data()
-    console.log(req.query.id)
-    res.send(data?.id)
+    const id = req.query.id
+
+    console.log(id)
+    const results = data.filter(device => device.id.toString() === id)
+    console.log(results)
+    res.send(results)
     
 })
 

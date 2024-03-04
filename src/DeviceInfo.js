@@ -3,26 +3,30 @@ import ListGroup from 'react-bootstrap/ListGroup';
 import Row from 'react-bootstrap/Row';
 import Tab from 'react-bootstrap/Tab';
 import { useState, useEffect } from 'react';
+import { v4 as uuidv4 } from 'uuid';
 
 
 function DeviceInfo({ device }) {
+  const lists = []
+  const tabs = []
+  for (device of device?.existingData) {
+    const type = 'type' in  device ? `Type ${device.type}` : ''
+    const list = `Time ${device.time}  ${type}`
+    const id = uuidv4()
+    lists.push(<ListGroup.Item action href={`#${id}`}>{list}</ListGroup.Item>)
+    tabs.push(<Tab.Pane eventKey={`#${id}`}>{JSON.stringify(device)}</Tab.Pane>)
+  }
   return (
     <Tab.Container id="list-group-tabs-example" defaultActiveKey={device?.model}>
       <Row>
         <Col sm={4}>
           <ListGroup>
-            <ListGroup.Item action href="#link1">
-              {device?.model}
-            </ListGroup.Item>
-            <ListGroup.Item action href="#link2">
-              Link 2
-            </ListGroup.Item>
+            {lists}
           </ListGroup>
         </Col>
         <Col sm={8}>
           <Tab.Content>
-            <Tab.Pane eventKey="#link1">Tab pane content 1</Tab.Pane>
-            <Tab.Pane eventKey="#link2">Tab pane content 2</Tab.Pane>
+            {tabs}
           </Tab.Content>
         </Col>
       </Row>

@@ -32,7 +32,7 @@ function App() {
       {isLoading ? '' : <Devices placeholder={selectedDevice}
         devices={deviceList}
         onDeviceSelected={setSelectedDevice} />}
-      <DeviceInfo device={selectedDevice}></DeviceInfo>
+      {selectedDevice && <DeviceInfo device={selectedDevice}></DeviceInfo>}
     </div>
   );
 }

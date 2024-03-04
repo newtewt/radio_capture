@@ -6,7 +6,7 @@ const get_device_info = async (device_id) => {
     try {
         console.log('getting ');
         const response = await axios.get(`http://localhost:4000/device_info?id=${device_id}`);
-        console.log(response);
+        return response.data
 
     } catch (error) {
         console.error(error);
@@ -16,10 +16,10 @@ const get_device_info = async (device_id) => {
 function Devices({ devices, onDeviceSelected, placeholder }) {
     const dropdownItems = devices.data.map((device) => {
         return <Dropdown.Item
-            onClick={(e) => {
-                const res = get_device_info(device.id)
+            onClick={ async (e) =>  {
+                const res = await get_device_info(device.id)
                 e.preventDefault();
-                onDeviceSelected(device);
+                onDeviceSelected({...device, existingData: res });
             }}
             key={device.model + device.id}
             href="#/action-1">{device.model + ' ID: ' + device.id}

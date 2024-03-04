@@ -1,14 +1,24 @@
 import Dropdown from 'react-bootstrap/Dropdown';
+import axios from 'axios';
 
 
+const get_device_info = async (device_id) => {
+    try {
+        console.log('getting ');
+        const response = await axios.get(`http://localhost:4000/device_info?id=${device_id}`);
+        console.log(response);
 
+    } catch (error) {
+        console.error(error);
+    }
+}
 
 function Devices({ devices, onDeviceSelected, placeholder }) {
     const dropdownItems = devices.data.map((device) => {
         return <Dropdown.Item
             onClick={(e) => {
+                const res = get_device_info(device.id)
                 e.preventDefault();
-                console.log(device)
                 onDeviceSelected(device);
             }}
             key={device.model + device.id}

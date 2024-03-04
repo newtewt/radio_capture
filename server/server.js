@@ -9,7 +9,6 @@ app.use(cors())
 async function get_data() {
     const data = await fs.readFileSync('example_capture.txt', { encoding: 'utf8', flag: 'r' });
     data_arr = []
-    console.log(typeof data)
     for (const line of data.split(os.EOL)) {
         try {
             data_arr.push(JSON.parse(line))
@@ -20,7 +19,6 @@ async function get_data() {
 
 app.get('/test_example', async (req, res) => {
     const data = await get_data()
-    console.log(data)
     res.send(data)
 })
 
@@ -36,10 +34,17 @@ app.get('/available_devices', async (req, res) => {
         devices[entry.id] = true;
         return true;
     });
-    console.log(filtered)
     res.send([...new Set(filtered)]
     )
 })
+
+app.get('/device_info', async (req, res) => {
+    const data = await get_data()
+    console.log(req.query.id)
+    res.send(data?.id)
+    
+})
+
 
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
